@@ -8,8 +8,8 @@
 
 ![The progression of Deployment Methodologiest](./Images/The%20Progression%20of%20Deployment%20Methodologies.png)
 
-![How does it work](./Images/How%20does%20it%20work.png)
+![How does it work](./Images/How%20does%20itcwork.png)
 
 
 ## Command Execution
-![How does a kubectl exec - work](./Images/How does a kubectl exec - work.png)
+![How does a 'kubectl exec -' work](./Images/How%20does%20a%20kubectl%20exec%20-%20work.png)

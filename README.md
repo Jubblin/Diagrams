@@ -8,7 +8,7 @@
 
 ![The progression of Deployment Methodologiest](./Images/The%20Progression%20of%20Deployment%20Methodologies.png)
 
-![How does it work](./Images/How%20does%20itcwork.png)
+![How does it work](./Images/How%20does%20it%20work.png)
 
 
 ## Command Execution

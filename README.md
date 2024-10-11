@@ -13,3 +13,6 @@
 
 ## Command Execution
 ![How does a 'kubectl exec -' work](./Images/How%20does%20a%20kubectl%20exec%20-%20work.png)
+
+## Datadog NPM streaming
+![How to stream NPM to Datadog](./Images/Datadog%20NPM%20communication%20flow.png)
